@@ -12,12 +12,13 @@ navitems:
     - url: "#other-services"
       title: "Other Services"
 ---
-The open structure of the badges ecosystem was designed to encourage development throughout the community. Many applications and services implement Open Badges to serve several core functions for issuers, earners and consumers. Each service and application may be specialized to focus on a particular aspect of the digital credentialing ecosystem, with appropriate features, and target audiences.
 
-The Badge Alliance maintains the following lists of services and applications to help you find the right solution to integrate Open Badges into your businesses and lives. The BA attempts to verify that each of the services that appears on this page is compatible with the [Open Badges Specification](https://openbadgespec.org) to the extent that is appropriate for its function. If you have any questions about this list or would like to suggest that your service be added, please [contact](../../contact) the Badge Alliance.
+The Open Badges ecosystem is built on an open specification implemented by many applications and services. This open structure allows different issuers, earners, and consumers to freely use available resources and contribute to the work.  Effective January 1, 2017, the Open Badges Specification, will continue to evolve under the stewardship of [IMS Global Learning Consortium](https://www.imsglobal.org/), who will provide ongoing open governance with inputs from the community. 
 
 <h2 class="title title-content" id="issuing-services">Issuing Services</h2>
-Here you can find services, software, and technical partners to help you start awarding Open Badges. 
+Listed below are a number of platforms and applications using the Open Badges Specification. Here you can find services, software, and technical partners to help you start issuing Open Badges.
+
+[Contact us]({{ site.baseurl }}/contact) if you have an Open Badges service you would like to be included in this list. 
 
 <h3 class="title title-secondary" id="Acclaim">Acclaim</h3>
 [Acclaim](http://youracclaim.com/) partners with recognized brands to issue badges employers value.
@@ -201,6 +202,18 @@ Contact: [John Foster](http://www.nocti.org/PresidentsMessage.cfm), CEO, NOCTI
 * Current features include: milestone badges; evidence uploads to OBF server; user role management (admin, creator, Issuer); simple badge creation and issuing interface; integration with Moodle, Mahara, and TotaraLMS, as well as open API for third-party plugins; extensive reporting features.
 
 Contact: [Eric Rousselle](mailto:eric.rousselle@discendum.com), CEO, Discendum Inc.
+
+<h3 class="title title-secondary" id="OpenBadgeAcademy">Open Badge Academy</h3>
+[Open Badge Academy](https://www.openbadgeacademy.com/) provides an end-to-end badge discovery, evidencing and display service. 
+
+**Details**:
+
+* Organisations can create their own academy to launch badges into the public library or their own dedicated space
+* Track progress through badges and review and assess evidence via a built in assessment workflow 
+* Individuals can evidence badges on the move via mobile and build up a sharable badge profile
+* Professionals can verify skills by leaving evidence-based endorsements    
+
+Contact: [hello@openbadgeacademy.com](mailto:hello@openbadgeacademy.com)
 
 <h3 class="title title-secondary" id="P2PU">Peer 2 Peer University Badges</h3>
 [P2PU Badges](http://badges.p2pu.org/) are free, open, and community-driven, featuring badges from Mozilla, Wikimedia, Creative Commons, and the National Writing Project.
