@@ -111,6 +111,37 @@ Contacts:
 
 Contact: [Simone Ravaioli](mailto:info@bestr.it), CINECA
 
+<h3 class="title title-secondary" id="CanCred Factory">CanCred Factory</h3>
+[CanCred Factory](https://factory.cancred.ca/) is a secure cloud service for organizations to issue trusted Open Badge eCredentials. 
+
+CanCred Factory is built on the same innovative technology as [Open Badge Factory] (https://openbadgefactory.com/) but is hosted in Canada by [Learning Agents] (http://www.learningagents.ca), an award-winning Canadian edtech service provider. This means CanCred Factory is fully compliant with Canadian privacy laws and we're laser-focused on the needs of Canadian badge issuers and building vibrant Open Badges ecosystems in Canada.
+
+**Details**:
+
+* Unlike many other systems, CanCred Factory is specialized on helping organizations create, issue and manage Open Badges. A sister platform, CanCred Passport, enables individuals to store and share Open Badges (see below). This "open connection" between the two key functions of issuing and sharing badges provides both organizations and individuals with greater flexibility and power. 
+
+* Current features include: user role management (admin, creator, issuer); account verification for Premium users, milestone badges; badge application forms, links to hosted evidence, scalable badge issuing networks, integration with [a long and growing list LMSs] (https://openbadgefactory.com/developers/), an open API and LTI compatibility for future integrations; and extensive reporting features.
+
+* CanCred Factory is offered by subscription at three service levels:  Free, Basic and Premium. [See details] (https://factory.cancred.ca/?open=modal-pricing). You can try it out for free at the Premium level for 60 days.
+
+Contact: [Don Presant](mailto:don@learningagents.ca), President of Learning Agents
+
+<h3 class="title title-secondary" id="CanCred Passport">CanCred Passport</h3>
+[CanCred Passport](https://passport.cancred.ca/) is a free cloud service for Open Badge eCredentials owned by individuals. CanCred Passport is provided as a more flexible and robust alternative to Mozilla Backpack and is compliant with the [Open Badges Specification](https://openbadgespec.org). CanCred Passport is the default destination for Open Badges issued by [CanCred Factory] (https://factory.cancred.ca/), although users can easily redirect their Open Badges to Mozilla Backpack.
+
+Similar to CanCred Factory, [CanCred Passport](https://passport.cancred.ca/) is built on the innovative Finnish technology behind [Open Badge Passport] (https://openbadgepassport.com/) but is hosted in Canada by [Learning Agents] (http://www.learningagents.ca), an award-winning Canadian edtech service provider.
+
+CanCred Passport and Open Badge Passport are built on an open source code base called Salava (“willow” in Finnish), funded by the Macarthur Foundation in 2015. [Salava] (http://salava.org) is the Community Edition of Open Badge Passport. The code is maintained on the [Discendum GitHub repository] (https://github.com/discendum).
+
+**Details**:
+
+* Totally free for individual badge earners
+* Fully compatible with Mozilla Backpack. Users can move their badges from Backpack to CanCred Passport and back.
+* Passport Pages enable users to create "mini-portfolios", combining their Open Badges with other evidence such as downloadable documents, images, even video
+* Easy sharing to social media such as LinkedIn
+
+Contact: [Don Presant](mailto:don@learningagents.ca), President of Learning Agents
+
 <h3 class="title title-secondary" id="Canvabadges">Canvabadges</h3>
 [Canvabadges](https://www.canvabadges.org/) let you award badges to students in courses based on their total grade in the course and completion of course modules. You can also put a manual approval step that requires your final sign-off before they receive the badges.
 
